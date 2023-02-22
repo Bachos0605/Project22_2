@@ -1,25 +1,4 @@
-# Project Tutorials 1
-
-## Mục lục
-***
-- [Phần 1: Spring Boot Tests](#phan-1)
-  - [1)Thực hiện viết code cho từng layer, Entity tùy chọn](#1)
-    - [Xây dựng Entity](#2)
-    - [Xây dựng tầng Repository](#3)
-    - [Xây dựng tầng Service](#4)
-    - [Xây dựng tầng Controller](#5)
-  - [2)Thực hiện viết test case cho từng layer ](#6)
-    - [Test trên tầng Repository](#7)
-    - [Test trên tầng Service](#8)
-    - [Test trên tầng Controller](#9)
-- [Phần 2: Actuator, Devtools](#phan-2)
-  - [1)Sử dụng Actuator](#10)
-    - [Cài đặt port quản lý giám sát, enable và truy vấn tất cả các endpoints](#11)
-    - [Truy vấn thông tin sức khỏe ứng dụng](#12)
-    - [Thực hiện shutdown ứng dụng](#13)
-  - [2)Sử dụng Devtools](#14)
-    - [Thực hiện đổi port quản lý giám sát](#15)
-    - [Thực hiện truy vấn tất cả các endpoints](#16)
+# Project 22/2/2023
 
 ### Phần 1: Spring Boot Tests
 
@@ -62,7 +41,11 @@
 
 ##### Test trên tầng Controller
 * **Xây dựng test trên tầng Controller:**
-![9A](https://github.com/Bachos0605/Project22_2/blob/main/Project_Tutorials/src/main/resources/Static/I.2.7.png)
+![9A](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U2.png)
+![9B](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U3.png)
+![9C](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U4.png)
+* **Kết quả:**
+![9D](https://github.com/Bachos0605/ProjectTutorials/blob/main/Updated_Project_Tutorials/src/main/resources/Static/U1.png)
 
 ### Phần 2: Actuator, Devtools
 
